@@ -6,7 +6,7 @@ namespace Rando
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! galerhbgaejrhg");
+            Console.WriteLine("Hello World! New");
         }
     }
 }
